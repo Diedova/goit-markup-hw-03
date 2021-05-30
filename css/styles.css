@@ -285,6 +285,6 @@ a {
   width: 231px;
  
 }
-.address-item li:not(:last-child) {
+.address li:not(:last-child) {
   margin-bottom: 9px;
 }
