@@ -294,6 +294,8 @@ padding: 20px  24px 20px 24px;}
     color: var(--rgba-color);
     margin-top: 20px;
   }
+.address li:first-child {
+  color: var(--white-color);
 }
 .address {
   display: block;
